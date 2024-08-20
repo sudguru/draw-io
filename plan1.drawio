@@ -4,6 +4,26 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="h6YaaGo9j96eLDpU9sLy-1" value="Oracle&lt;br&gt;Apex&amp;nbsp;&lt;br&gt;--------&lt;br&gt;&lt;div&gt;CMS&lt;br&gt;Quick Apps&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="260" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="h6YaaGo9j96eLDpU9sLy-3" value="VERCEL&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;SSG&lt;br&gt;+&lt;br&gt;Caching Strategies&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="180" width="300" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="h6YaaGo9j96eLDpU9sLy-2" value="NextJs" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h6YaaGo9j96eLDpU9sLy-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.462;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="h6YaaGo9j96eLDpU9sLy-1" target="h6YaaGo9j96eLDpU9sLy-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="130" as="sourcePoint" />
+            <mxPoint x="410" y="80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="80" />
+              <mxPoint x="370" y="80" />
+              <mxPoint x="588" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
